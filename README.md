@@ -33,3 +33,5 @@ Here is a view of the top and bottom of the case:
 ## Here is the final image of how it works!
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MjEsInB1ciI6ImJsb2JfaWQifX0=--82478ace52dbe0481ffa00f60b533ee531056a40/20251207_144018.jpg)
+
+![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/N%C3%A1vrh%20bez%20n%C3%A1zvu.gif?raw=true)
