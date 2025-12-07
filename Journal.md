@@ -4,7 +4,7 @@ This is the journal where I created a project with Arduino.
 
 ## So how much time did I spend on that?
 
-In total, I spent about over 12 hours on it.
+In total, I spent about over 13 hours on it.
 
 ## My worst hangups
 
@@ -57,3 +57,8 @@ The holes for the LEDs were too small, so I had to grind them down and they ende
 Just print the top part, tweak a few things, set the code and everything should hopefully work.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1NjksInB1ciI6ImJsb2JfaWQifX0=--7a43bf670677a8b683d7a46163506395cc815aa2/20251207_132256.jpg)
+
+I already printed the top part. I put it on top of it and it fit perfectly. I saved the Python code and created a code in Google settings so I could send emails.I was looking for that setting for a while, but after some time I found it.
+
+After about 13 hours of work, I finished this project. Everything works and fits.
+I'm very glad it works!
