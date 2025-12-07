@@ -4,7 +4,7 @@ This is the journal where I created a project with Arduino.
 
 ## So how much time did I spend on that?
 
-In total, I spent about over 13 hours on it.
+In total, I spent about over 13 hours on it...
 
 ## My worst hangups
 
