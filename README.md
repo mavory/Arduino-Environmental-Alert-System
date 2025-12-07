@@ -21,4 +21,4 @@ Everything works on the Arduino code, which collects data and then the Python co
 
 The DHT11 sends information to the Arduino, which is programmed to send information at 9600. It is then taken over by python code, which monitors the information and if the temperature/humidity is outside the allowed range, it sends an email!
 
-![alt text](image.png)
+![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/DHT11%20(1).png?raw=true)
