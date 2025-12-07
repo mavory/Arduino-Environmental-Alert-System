@@ -29,3 +29,7 @@ Here is a view of the top and bottom of the case:
 
 ![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202025-12-06%20225458.png?raw=true)
 ![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202025-12-06%20225330.png?raw=true)
+
+## Here is the final image of how it works!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MjEsInB1ciI6ImJsb2JfaWQifX0=--82478ace52dbe0481ffa00f60b533ee531056a40/20251207_144018.jpg)
