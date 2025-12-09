@@ -23,6 +23,8 @@ The DHT11 sends information to the Arduino, which is programmed to send informat
 
 ![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/DHT11%20(1).png?raw=true)
 
+![image](https://github.com/mavory/Arduino-Environmental-Alert-System/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202025-12-09%20205212.png?raw=true)
+
 ## 3D models
 
 Here is a view of the top and bottom of the case:
